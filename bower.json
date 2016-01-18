@@ -2,7 +2,7 @@
   "name": "promise-async",
   "description": "Promise bindings for async lib.",
   "homepage": "https://github.com/Kikobeats/promise-async",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "./dist/promise-async.js",
   "authors": [
     {
