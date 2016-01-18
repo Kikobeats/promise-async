@@ -1,0 +1,30 @@
+{
+  "name": "promise-async",
+  "description": "Promise bindings for async lib.",
+  "homepage": "https://github.com/Kikobeats/promise-async",
+  "version": "0.0.0",
+  "main": "./dist/promise-async.js",
+  "authors": [
+    {
+      "email": "josefrancisco.verdu@gmail.com",
+      "name": "Kiko Beats",
+      "url": "https://github.com/Kikobeats"
+    }
+  ],
+  "repository": "Kikobeats/promise-async",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/promise-async/issues"
+  },
+  "keywords": [
+    "async",
+    "promise"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
