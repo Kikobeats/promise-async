@@ -43,7 +43,7 @@
     "clean": "rm -rf node_modules",
     "lint": "standard lib",
     "pretest": "npm run lint",
-    "test": "sh test/test.sh"
+    "test": "mocha"
   },
   "license": "MIT"
 }
