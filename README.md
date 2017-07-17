@@ -1,5 +1,7 @@
 # promise-async
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/promise-async.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/promise-async.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/promise-async/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/promise-async)
 [![Dependency status](http://img.shields.io/david/Kikobeats/promise-async.svg?style=flat-square)](https://david-dm.org/Kikobeats/promise-async)
